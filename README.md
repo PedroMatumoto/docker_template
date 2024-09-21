@@ -1,4 +1,4 @@
-# React App Template
+# Docker Template
 
 Este repositório contém um template básico para iniciar um container Docker.
 
